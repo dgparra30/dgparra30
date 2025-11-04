@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Darly Parra 👋
 
-<!--
-**dgparra30/dgparra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora **Backend** apasionada por construir APIs robustas y eficientes. Mi enfoque principal es crear soluciones escalables utilizando el ecosistema de **JavaScript/TypeScript**.
 
-Here are some ideas to get you started:
+**Tecnologías Clave:**
+- **Lenguaje:** JavaScript, TypeScript
+- **Frameworks:** Node.js, Express, NestJS
+- **Bases de Datos:** PostgreSQL, Mysql
+- **Otros:** GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy constantemente aprendiendo y aplicando las mejores prácticas en el desarrollo backend. Cuando no estoy programando, disfruto mucho de jugar al **voleibol** 🏐.
+
+**¡Conectemos!**
+* **Correo:** suarezdarlyp@gmail.com
